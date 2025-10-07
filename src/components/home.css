@@ -1,0 +1,17 @@
+.image:hover{
+ 
+    color: #fff;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    transform: translateY(-10px);
+    transition: 0.3s ease;
+}
+.prod:hover{
+ 
+    color: #fff;
+    transform: scale(1.1);    
+    transition: 0.3s ease;
+}
+button:hover{
+    transform: translateY(-5px);
+    transition: 0.3s ease;
+}
